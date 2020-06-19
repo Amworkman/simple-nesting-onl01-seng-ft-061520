@@ -109,7 +109,7 @@ def changing_alan
      alans_new_info = "GUI"
      
      programmer_hash[:alan_kay] = {:alans_new_info => "GUI", :languages => ["Smalltalk", "LISP"]}
-     programmer_hash[:alan_kay][:alans_new_info]
+     programmer_hash
      
      
 end
